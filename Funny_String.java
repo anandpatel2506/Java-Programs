@@ -45,7 +45,7 @@ public class Funny_Q2_String {
 		
 		if(s!=0)
 			System.out.println("Not Funny");
-		else System.out.println(" Funny");
+		else System.out.println("It's Funny");
 
 	}
 
